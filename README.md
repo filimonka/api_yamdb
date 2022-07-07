@@ -75,9 +75,7 @@ python manage.py runserver
 
 _Tech_stack:_
 
-Django 2.2
-REST API
-ReDoc
+__Django 2.2, REST API, ReDoc__
 
 
 _Authors:_
