@@ -73,6 +73,13 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+_Tech_stack:_
+
+Django 2.2
+REST API
+ReDoc
+
+
 _Authors:_
 
 __Roman https://github.com/romankurortnyi__
